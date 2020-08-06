@@ -7,4 +7,4 @@ This R-code complements the paper "Ensemble Clustering for Step Data via Binning
 
 1. "simulation_code.R" ; Main simulation code 
 
-2. "functions.R" ; Built-in functions. Automatically loadded by "simulation_code.R"
+2. "functions.R" ; Built-in functions. Automatically loaded by "simulation_code.R"
